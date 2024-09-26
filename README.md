@@ -31,20 +31,3 @@ Create a simulation for a Mars Rover that can navigate a grid-based terrain. The
 1. **Command Pattern**: Each command (Move, Turn Left, Turn Right) is encapsulated as an object, promoting flexibility in adding or modifying commands.
 2. **Composite Pattern**: The grid and obstacles are structured in a composite format, enabling easy representation and management of grid elements.
 
-## Technologies
-- **Language**: Java / Python
-- **Design Patterns**: Command Pattern, Composite Pattern
-- **OOP Concepts**: Inheritance, Polymorphism, Encapsulation
-
----
-
-## How to Run
-
-1. Clone the repository.
-2. Navigate to the project folder.
-3. Run the simulation.
-
-```bash
-git clone <repository-url>
-cd mars-rover-simulation
-# Run the simulation
